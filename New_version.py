@@ -1,4 +1,6 @@
 import os
+import time
+
 from PIL import Image
 
 source_directory = input("Enter source Path Please: ")  # Get all files inside this directory
@@ -27,3 +29,7 @@ for filename in os.listdir(source_directory):
         else:
             # Do something with non-matching files
             print(filename, "does not contain 'spc' or 'sp'")
+
+print("\n\n")
+print("Extracting Finished Successfully")
+time.sleep(2)
