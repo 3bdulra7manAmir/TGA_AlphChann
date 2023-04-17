@@ -1,4 +1,5 @@
-('D:\\Projects\\PyCharm\\cod_TGA_AlphChann\\dist\\Alpha_Channel_Extractor.exe',
+('D:\\Projects\\Visual Studio '
+ 'code\\Python\\cod_TGA_AlphChann\\dist\\Alpha_Channel_Extractor.exe',
  True,
  False,
  False,
@@ -14,24 +15,31 @@
  None,
  None,
  None,
- 'D:\\Projects\\PyCharm\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\Alpha_Channel_Extractor.pkg',
+ 'D:\\Projects\\Visual Studio '
+ 'code\\Python\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\Alpha_Channel_Extractor.pkg',
  [('PYZ-00.pyz',
-   'D:\\Projects\\PyCharm\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\PYZ-00.pyz',
+   'D:\\Projects\\Visual Studio '
+   'code\\Python\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'D:\\Projects\\PyCharm\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\localpycs\\struct.pyc',
+   'D:\\Projects\\Visual Studio '
+   'code\\Python\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'D:\\Projects\\PyCharm\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\localpycs\\pyimod01_archive.pyc',
+   'D:\\Projects\\Visual Studio '
+   'code\\Python\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'D:\\Projects\\PyCharm\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\localpycs\\pyimod02_importers.pyc',
+   'D:\\Projects\\Visual Studio '
+   'code\\Python\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'D:\\Projects\\PyCharm\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\localpycs\\pyimod03_ctypes.pyc',
+   'D:\\Projects\\Visual Studio '
+   'code\\Python\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'D:\\Projects\\PyCharm\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\localpycs\\pyimod04_pywin32.pyc',
+   'D:\\Projects\\Visual Studio '
+   'code\\Python\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Program Files '
@@ -54,7 +62,8 @@
    '(x86)\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
    'PYSOURCE'),
   ('Alpha_Channel_Extractor',
-   'D:\\Projects\\PyCharm\\cod_TGA_AlphChann\\Alpha_Channel_Extractor.py',
+   'D:\\Projects\\Visual Studio '
+   'code\\Python\\cod_TGA_AlphChann\\Alpha_Channel_Extractor.py',
    'PYSOURCE'),
   ('python311.dll',
    'C:\\Program Files (x86)\\Python311\\python311.dll',
@@ -184,11 +193,11 @@
    'C:\\Program Files '
    '(x86)\\Python311\\Lib\\site-packages\\PIL\\_imaging.cp311-win_amd64.pyd',
    'EXTENSION'),
-  ('libssl-1_1.dll',
-   'C:\\Program Files (x86)\\Python311\\DLLs\\libssl-1_1.dll',
-   'BINARY'),
   ('libcrypto-1_1.dll',
    'C:\\Program Files (x86)\\Python311\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Program Files (x86)\\Python311\\DLLs\\libssl-1_1.dll',
    'BINARY'),
   ('libffi-8.dll',
    'C:\\Program Files (x86)\\Python311\\DLLs\\libffi-8.dll',
@@ -201,12 +210,13 @@
    'C:\\Program Files (x86)\\Python311\\VCRUNTIME140_1.dll',
    'BINARY'),
   ('base_library.zip',
-   'D:\\Projects\\PyCharm\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\base_library.zip',
+   'D:\\Projects\\Visual Studio '
+   'code\\Python\\cod_TGA_AlphChann\\build\\Alpha_Channel_Extractor\\base_library.zip',
    'DATA')],
  [],
  False,
  False,
- 1681000725,
+ 1681732065,
  [('run.exe',
    'C:\\Program Files '
    '(x86)\\Python311\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
