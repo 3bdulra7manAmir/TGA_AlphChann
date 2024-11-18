@@ -72,7 +72,7 @@ class ImageProcessor:
 
 
 def main():
-    source_directory = input("Enter the source directory path: ").strip()
+    source_directory = input("Enter the source directory path:  ").strip()
 
     try:
         processor = ImageProcessor(source_directory)
