@@ -8,3 +8,4 @@
 # Usage
 
 1. Just put the path where the images are located and hit Enter!
+"source_directory = input("Enter the source directory path:  ").strip()"
